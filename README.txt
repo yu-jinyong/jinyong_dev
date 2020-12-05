@@ -1,3 +1,4 @@
 "연습용"
 
-깃허브 어렵네
+Github is too difficult to me
+
